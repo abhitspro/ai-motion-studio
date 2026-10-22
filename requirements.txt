@@ -1,0 +1,16 @@
+# Environment & Configuration
+python-dotenv
+requests
+
+# OpenAI / Custom Endpoint Gateway Support (for APInex integration)
+openai
+
+# Data Models & Schemas
+pydantic
+
+# Google GenAI & LangChain Ecosystem
+google-genai
+langchain
+langchain-google-genai
+
+gTTS

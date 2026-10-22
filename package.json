@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@remotion/bundler": "^4.0.537",
+    "@remotion/cli": "^4.0.537",
+    "remotion": "^4.0.537"
+  }
+}

@@ -1,0 +1,24 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Node & Remotion Build Outputs & Modules
+node_modules/
+my-motion-video/node_modules/
+my-motion-video/out/
+my-motion-video/dist/
+
+# Generated Stories & Media Assets (optional, if you want local test outputs excluded)
+generated_stories/
+my-motion-video/public/audio/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
